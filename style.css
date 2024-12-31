@@ -1,0 +1,40 @@
+div{
+   width: 380px;
+   height: 390px;
+   background-color: rgb(201, 63, 63);
+   padding: 20px;
+   border-radius: 5px;
+   position: relative;
+   left: 430px;
+   top: 100px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(243, 155, 155);
+  }
+  
+  #counter {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    transition: 1s;
+  }
+  button:hover{
+    background-color: rgb(249, 116, 116);
+
+
+  }
+  
+  
